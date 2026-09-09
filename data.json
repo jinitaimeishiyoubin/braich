@@ -12,18 +12,18 @@
   "stats": {
     "since": 1788957632861,
     "seeded": false,
-    "sessions": 0,
+    "sessions": 1,
     "singles": 0,
-    "fives": 0,
+    "fives": 1,
     "tens": 0,
     "cards": {
       "SP": 0,
-      "SSR": 0,
-      "SR": 0,
-      "R": 0
+      "SSR": 1,
+      "SR": 1,
+      "R": 3
     },
     "gura": 0,
-    "spentB": 0,
+    "spentB": 4,
     "spentFree": 0,
     "freeGain": 0
   },
@@ -34,7 +34,7 @@
     }
   },
   "complaints": [],
-  "updatedAt": 1788957798948,
+  "updatedAt": 1788957808815,
   "students": [
     {
       "id": 1,
@@ -238,12 +238,63 @@
       "id": 19,
       "name": "",
       "a": 0,
-      "b": 5,
+      "b": 1,
       "free": 0,
-      "nSessions": 0,
-      "cards": {},
-      "hist": [],
-      "rewards": []
+      "nSessions": 1,
+      "cards": {
+        "r_xia": 1,
+        "ssr_sheng": 1,
+        "r_mo": 1,
+        "sr_feng": 1,
+        "r_jin": 1
+      },
+      "hist": [
+        {
+          "t": 1788957807614,
+          "cost": {
+            "b": 4
+          },
+          "res": [
+            "r_xia",
+            "ssr_sheng",
+            "r_mo",
+            "sr_feng",
+            "r_jin"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "code": "8X7W",
+          "k": "r_xia",
+          "st": "pend",
+          "t": 1788957807613
+        },
+        {
+          "code": "TRXH",
+          "k": "ssr_sheng",
+          "st": "pend",
+          "t": 1788957807613
+        },
+        {
+          "code": "RV6J",
+          "k": "r_mo",
+          "st": "pend",
+          "t": 1788957807613
+        },
+        {
+          "code": "DP5P",
+          "k": "sr_feng",
+          "st": "pend",
+          "t": 1788957807613
+        },
+        {
+          "code": "A734",
+          "k": "r_jin",
+          "st": "pend",
+          "t": 1788957807614
+        }
+      ]
     },
     {
       "id": 20,
