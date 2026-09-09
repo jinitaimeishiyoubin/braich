@@ -34,7 +34,7 @@
     }
   },
   "complaints": [],
-  "updatedAt": 1788957792965,
+  "updatedAt": 1788957794307,
   "students": [
     {
       "id": 1,
@@ -238,7 +238,7 @@
       "id": 19,
       "name": "",
       "a": 0,
-      "b": 1,
+      "b": 2,
       "free": 0,
       "nSessions": 0,
       "cards": {},
